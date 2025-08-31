@@ -2,7 +2,7 @@
 
 Welcome to your first coding assignment!
 
-For our first couple of lessons, we'll be using a special process to get started. We will use a simple online tool to edit our code and see it live, and then we will save our final work back here in your personal GitHub repository.
+For our first couple of lessons, we'll be using a **temporary** process to get started. We will use a simple online tool to edit our code and see it work, and then we will save our final work back here in your personal **GitHub repository**.
 
 ## ✅ Your Goal
 
@@ -16,7 +16,7 @@ Follow these four steps carefully.
 
 Open the `index.html` file in this repository. Select **all** of the text and copy it.
 
-### Step 2: Open the Online Editor
+### Step 2: Open our Temporary Online Editor
 
 In a new tab, go to the W3Schools "Tryit" Editor:  
 [https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor)
@@ -32,7 +32,7 @@ This is our temporary "workbench" where we can write code on the left and see a 
    - Add a Paragraph (`<p>`) with a short, fun sentence about yourself.
    - Add another Level 2 Heading (`<h2>`) with the text **"My Favourite Thing"**.
    - Add another Paragraph (`<p>`) describing that thing.
-3. Click the **`Run >`** button to see your webpage come to life on the right!
+3. Click the **Run >** button to see your webpage come to life on the right!
 
 ### Step 4: Save Your Work to GitHub (This is how you hand in the assignment!)
 
