@@ -8,9 +8,9 @@ For our first couple of lessons, we'll be using a **temporary** process to get s
 
 The goal of this task is to get comfortable with the most basic building blocks of the web by correctly using heading and paragraph tags in an HTML file.
 
-## 🛠️ How to Complete This Assignment (Temporary Workflow)
+## 🛠️ How to Complete This Assignment (using our temporary workflow)
 
-Follow these four steps carefully.
+Follow these **four** steps carefully:
 
 ### Step 1: Get Your Starter Code
 
