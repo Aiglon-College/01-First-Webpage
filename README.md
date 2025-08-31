@@ -34,7 +34,6 @@ This is our temporary "workbench" where we can write code on the left and see a 
    - Add another Paragraph (`<p>`) describing that thing.
 3. Click the **Run >** button to see your webpage come to life on the right!
 
-   ```html
 <p style="color: red;">**Stuck?** Try this prompt like this in Gemini: "How do I use the `<h1>` tag in a webpage?"</p>
    **Stuck?** Try this prompt like this in Gemini: "How do I use the `<h1>` tag in a webpage?"
 
