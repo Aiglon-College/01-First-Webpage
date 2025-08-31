@@ -19,7 +19,7 @@ Open the `index.html` file in this repository. Select **all** of the text and co
 ### Step 2: Open our Temporary Online Editor
 
 In a new tab, go to the W3Schools "Tryit" Editor:  
-[https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor)
+**Right-click, open in new tab:** [https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_editor)
 
 This is our temporary "workbench" where we can write code on the left and see a live preview of our webpage on the right.
 
