@@ -37,7 +37,11 @@ This is our temporary "workbench" where we can write code on the left and see a 
 ```html
 <p style="color: red;">**Stuck?** Try this prompt like this in Gemini: "How do I use the `<h1>` tag in a webpage?"</p>
 ```
-   **Stuck?** Try this prompt like this in Gemini: "How do I use the `<h1>` tag in a webpage?"
+   **Stuck?** Try this prompt like this in Gemini: "How do I use the `<h1>` tag in a webpage?" or use this starter:
+   ```html
+<h1>The Rock</h1>
+```
+
 
 ### Step 4: Save Your Work to GitHub (This is how you hand in the assignment!)
 
